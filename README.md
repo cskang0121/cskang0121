@@ -1,5 +1,7 @@
 <img align="left" height="300px" src="https://user-images.githubusercontent.com/79074359/175997396-6e50139f-e6ff-4548-b8d9-2c95c5006cd6.jpg">
+
 Hi there 👋
+
 
 I'm Kang, a Computer Science Undergraduate who intends to specialize in Artificial Intelligence and a second major in Business Analytics at Singapore Management University. 
 
