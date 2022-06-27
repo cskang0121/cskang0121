@@ -1,5 +1,4 @@
-![john-jennings-fg7J6NnebBc-unsplash](https://user-images.githubusercontent.com/79074359/175996449-bb4d24ac-bd79-4e18-9727-50ce54fbe886.jpg)
-
+<img align="left" src="https://user-images.githubusercontent.com/79074359/175997396-6e50139f-e6ff-4548-b8d9-2c95c5006cd6.jpg">
 Hi there 👋
 
 I'm Kang, a Computer Science Undergraduate who intends to specialize in Artificial Intelligence and a second major in Business Analytics at Singapore Management University. 
