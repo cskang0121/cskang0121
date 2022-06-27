@@ -1,5 +1,4 @@
-
-![repository-open-graph-template](https://www.freepik.com/photos/design-thinking')
+![john-jennings-fg7J6NnebBc-unsplash](https://user-images.githubusercontent.com/79074359/175996449-bb4d24ac-bd79-4e18-9727-50ce54fbe886.jpg)
 
 Hi there 👋
 
