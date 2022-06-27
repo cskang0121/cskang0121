@@ -1,5 +1,5 @@
 
-![repository-open-graph-template](https://user-images.githubusercontent.com/79074359/175994954-2b41af68-d5b3-4814-8d31-3fe0e0bcb350.png)
+![repository-open-graph-template](https://www.freepik.com/photos/design-thinking')
 
 Hi there 👋
 
