@@ -6,8 +6,6 @@ I'm Kang, a Computer Science Undergraduate who intends to specialize in Artifici
 
 Learning programming skills and Mathematics from scratch was effortful for me at first. However, throughout these years, I have learned the importance of being patient, enjoying the process of learning, and achieving my personal goals through a strong sense of determination and resilience.
 
-I get really excited about chances where I get to apply my knowledge and work with passionate and like-minded individuals in the tech industries! If you are interested in connecting with me, please reach me via [email](kang.chinshen@gmail.com) or [LinkedIn](kang.chinshen@gmail.com). 
-
-[This is an external link to genome.gov](https://www.genome.gov/)
+I get really excited about chances where I get to apply my knowledge and work with passionate and like-minded individuals in the tech industries! If you are interested in connecting with me, please reach me via kang.chinshen@gmail.com or [LinkedIn](https://www.linkedin.com/in/chinshenkang/). 
 
 Peace ✌🏻
