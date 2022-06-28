@@ -1,4 +1,4 @@
-My Certificates :
+My certificates :
 
 Java
 - [Oracle Certified Foundation Associate](https://www.credly.com/badges/8f599965-754d-4cf5-a5cb-5ff7b358fefe/public_url)
