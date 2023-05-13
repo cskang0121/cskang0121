@@ -5,7 +5,7 @@
 
 <p>Hi there!
 
-I'm Kang, a Computer Science undergraduate student who intends to specialise in Artificial Intelligence and a second major in Business Analytics at Singapore Management University. </p>
+I'm Kang, a Computer Science undergraduate student who intends to specialise in Artificial Intelligence at Singapore Management University. </p>
 
 > "It always seems impossible until it is done." ― Nelson Mandela 
 
