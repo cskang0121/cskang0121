@@ -10,7 +10,5 @@ I'm Kang, a Computer Science undergraduate student who intends to specialise in 
 I get really excited about chances where I get to apply my knowledge and work with passionate and like-minded individuals in the tech industries! If you are interested in connecting with me, please reach me via kang.chinshen@gmail.com or [LinkedIn](https://www.linkedin.com/in/chinshenkang/). 
 
 For more information, please click [here](https://github.com/cskang0121/cskang0121).
-
-> "It always seems impossible until it is done." ― Nelson Mandela 
   
 </div>  
