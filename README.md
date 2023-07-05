@@ -7,14 +7,10 @@
 
 I'm Kang, a Computer Science undergraduate student who intends to specialise in Artificial Intelligence at Singapore Management University. </p>
 
-> "It always seems impossible until it is done." ― Nelson Mandela 
-
-<p> Undoubtedly, learning programming skills and Mathematics from scratch was effortful at first. However, throughout these years, I have learned the importance of being patient, enjoying the process of learning, and achieving my personal goals through a strong sense of determination and resilience.
-
 I get really excited about chances where I get to apply my knowledge and work with passionate and like-minded individuals in the tech industries! If you are interested in connecting with me, please reach me via kang.chinshen@gmail.com or [LinkedIn](https://www.linkedin.com/in/chinshenkang/). 
 
 For more information, please click [here](https://github.com/cskang0121/cskang0121).
 
-Peace ✌🏻 </p> 
+> "It always seems impossible until it is done." ― Nelson Mandela 
   
 </div>  
