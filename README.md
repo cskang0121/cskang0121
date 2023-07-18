@@ -13,6 +13,4 @@ For more information, please click [here](https://github.com/cskang0121/cskang01
 
 > "It always seems impossible until it is done." ― Nelson Mandela
 
-Thank you.
-
 </div>  
