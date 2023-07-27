@@ -1,8 +1,8 @@
 ## Certificates
 
 ### Software Engineering And Cloud Architecture 💻
-1. [*** AWS Certified Solution Architect Associate SAA-03 ***](https://www.credly.com/badges/3a48e799-23ae-4966-9af9-1d7a20fa0a28/public_url)
-2. [*** Oracle Certified Foundation Associate Java ***](https://www.credly.com/badges/8f599965-754d-4cf5-a5cb-5ff7b358fefe/public_url)
+1. [AWS Certified Solution Architect Associate SAA-03](https://www.credly.com/badges/3a48e799-23ae-4966-9af9-1d7a20fa0a28/public_url)
+2. [Oracle Certified Foundation Associate Java](https://www.credly.com/badges/8f599965-754d-4cf5-a5cb-5ff7b358fefe/public_url)
 3. [Linux Shell and Scripting Essentials](https://www.credly.com/badges/27300ffb-1142-4c0d-8403-86cf97cc9519/public_url)
 4. [Getting Started with Git and GitHub](https://www.credly.com/badges/27300ffb-1142-4c0d-8403-86cf97cc9519/public_url)
 
