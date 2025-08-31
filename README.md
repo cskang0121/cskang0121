@@ -7,9 +7,9 @@
 
 <p>
 
-I'm Kang, a Computer Science undergraduate student who specialises in Artificial Intelligence at Singapore Management University. </p>
+I'm Kang, a software solutions architect with 2.5 years of experience specializing in generative intelligence, delivering scalable solutions that address complex business challenges. </p>
 
-I get really excited about chances where I get to apply my knowledge and work with passionate and like-minded individuals in the tech industries! If you are interested in connecting with me, please reach me via cskang.2020@scis.smu.edu.sg or [LinkedIn](https://www.linkedin.com/in/chinshenkang/). 
+I get really excited about chances where I get to apply my knowledge and work with passionate and like-minded individuals in the tech industries! If you are interested in connecting with me, please reach me via kang.chinshen@gmail.com or [LinkedIn](https://www.linkedin.com/in/chinshenkang/). 
 
 For more information, please click [here](https://github.com/cskang0121/cskang0121).
 
